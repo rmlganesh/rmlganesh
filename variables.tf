@@ -3,11 +3,11 @@ variable "aws_region" {
 }
 
 variable "aws_access_key" {
-  default = "AKIAR5TKHV4IJ54BJ6XO"
+  default = ""
 }
 
 variable "aws_secret_key" {
-  default = "G/JjPb2GyrdcWtStj9K032dGOyIkOe9CtPPAHJ2X"
+  default = ""
 }
 
 variable "PATH_TO_PRIVATE_KEY" {
